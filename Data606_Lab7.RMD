@@ -25,7 +25,7 @@ library(dplyr)
 Load Data Set:
 
 ```{r}
-load("mlb11.RData")
+load("~/Desktop/CUNY/DATA606/labs/Lab7/more/mlb11.RData")
 head(mlb11)
 summary(mlb11)
 ```
